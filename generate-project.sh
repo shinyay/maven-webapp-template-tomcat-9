@@ -6,11 +6,12 @@ version="1.0.0"
 #
 # HISTORY:
 #
-# * 17/05/04 - v1.0.0  - First Creation
+# * 20/09/07 - v1.0.0  - First Creation
 #
 # ##################################################
 
-# http://maven-repository.com/artifact/org.codehaus.mojo.archetypes/webapp-javaee7
+# https://mvnrepository.com/artifact/de.rieckpil.archetypes/jakartaee8
+# https://mvnrepository.com/artifact/de.rieckpil.archetypes/javaee8
 
 GROUP_ID="$1"
 ARTIFACT_ID="$2"
